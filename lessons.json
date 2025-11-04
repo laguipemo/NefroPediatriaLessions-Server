@@ -8,7 +8,7 @@
     "video_uri" : "",
     "audio_uri" : "",
     "pdf_uri" : "",
-    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lesons/leson1_glomerulopatias_principales_sindromes.md"
+    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lessons/lesson1_glomerulopatias_principales_sindromes.md"
   },
   {
     "id" : 2,
@@ -19,7 +19,7 @@
     "video_uri" : "",
     "audio_uri" : "",
     "pdf_uri" : "",
-    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lesons/leson2_gromerulopatias_estrategia_diagnostica.md.md"
+    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lessons/lesson2_gromerulopatias_estrategia_diagnostica.md.md"
   },
   {
     "id" : 3,
@@ -30,7 +30,7 @@
     "video_uri" : "",
     "audio_uri" : "",
     "pdf_uri" : "",
-    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lesons/leson3_glomerulopatias_tratamiento_general.md"
+    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lessons/lesson3_glomerulopatias_tratamiento_general.md"
   },
   {
     "id" : 4,
@@ -41,7 +41,7 @@
     "video_uri" : "",
     "audio_uri" : "",
     "pdf_uri" : "",
-    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lesons/leson4_glomerulopatias_recursos_adicionales.md"
+    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lessons/lesson4_glomerulopatias_recursos_adicionales.md"
   },
   {
     "id" : 5,
