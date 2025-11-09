@@ -24,8 +24,8 @@ Las GP son entidades muy heterogéneas tanto por su etiología como por su evolu
 Se manifiestan clínicamente por un número limitado de síntomas, que son consecuencia del daño de la integridad morfológica y funcional del glomérulo.
 
 + <p align="justify">Así, el aumento de la permeabilidad de la pared capilar glomerular se expresa por la pérdida de proteínas en la orina (proteinuria), a ello se suma que el aumento de la permeabilidad puede llegar a permitir el paso de elementos celulares de la sangre a la orina, apareciendo hematíes en la orina (hematuria).
-- La disminución de la superficie de filtración por el daño glomerular determina la disminución de la tasa de filtración glomerular (IR, oliguria).
-+ Los trastornos en la regulación de la excreción renal de sodio y agua determinan la aparición de hipertensión arterial (HTA) y edema (también contribuye la hipoproteinemia secundaria a la proteinuria).
-- Síntomas particulares de las diferentes enfermedades sistémicas que involucran al riñón.
+- <p align="justify">La disminución de la superficie de filtración por el daño glomerular determina la disminución de la tasa de filtración glomerular (IR, oliguria).
++ <p align="justify">Los trastornos en la regulación de la excreción renal de sodio y agua determinan la aparición de hipertensión arterial (HTA) y edema (también contribuye la hipoproteinemia secundaria a la proteinuria).
+- <p align="justify">Síntomas particulares de las diferentes enfermedades sistémicas que involucran al riñón.
 
 

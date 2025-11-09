@@ -8,18 +8,18 @@
     "video_uri" : "",
     "audio_uri" : "",
     "pdf_uri" : "",
-    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lessons/lesson1_glomerulopatias_principales_sindromes.md"
+    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lessons/lesson1_glomerulopatias_generalidades.md"
   },
   {
     "id" : 2,
-    "title" : "Glomerulopatías. Estrategia diagnóstica.",
-    "description" : "Estrategia seguida en el diagnóstico de las glomerulopatías.",
+    "title" : "Glomerulopatías. Principales sindromes.",
+    "description" : "Principales síndromes glomerulares.",
     "image_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/glomerulopatia_01.jpg",
     "image_placeholder" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/images/nefrologia_imagen_placeholder.jpg",
     "video_uri" : "",
     "audio_uri" : "",
     "pdf_uri" : "",
-    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lessons/lesson2_gromerulopatias_estrategia_diagnostica.md.md"
+    "content_url" : "https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessions-Server/refs/heads/main/lessons/lesson2_gromerulopatias_principales_sindromes.md"
   },
   {
     "id" : 3,
