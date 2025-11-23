@@ -1,6 +1,6 @@
 # Glomerulonefritis postestrectococica.
 
-![Imagen GNPE. Sospecha clínica y formas de presentación](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/gnpe_02.jpg "GNPE. Sospecha clínica y formas de presentación")
+![Imagen GNPE. Sospecha clínica y formas de presentación](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/gnpe_03.jpg "GNPE. Sospecha clínica y formas de presentación")
 
 ## Estrategia diagnóstica. Principales complicaciones.
 
