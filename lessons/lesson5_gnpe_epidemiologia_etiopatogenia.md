@@ -72,8 +72,11 @@ específica con recurrencias excepcionales.
 
 ### Patogenia
 
-[![Esquema: Infección faringoamigdalar o cutanea por SBHGA nefritógenos](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/figura_gnapi_resumen.png "Infección faringoamigdalar o cutanea por SBHGA nefritógenos")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/figura_gnapi_resumen.png "Infección faringoamigdalar o cutanea por SBHGA nefritógenos")
+[![Esquema: Infección faringoamigdalar o cutanea por SBHGA nefritógenos](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_infeccion_faringoamigdalar_o_cutanea.png "Infección faringoamigdalar o cutanea por SBHGA nefritógenos")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_infeccion_faringoamigdalar_o_cutanea.png "Infección faringoamigdalar o cutanea por SBHGA nefritógenos")
 
 
 
 [![Esquema: Daño glomerular](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_danho_glomerular.png "Daño glomerular")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_danho_glomerular.png.png "Daño glomerular")
+
+
+[![Esquema de la patogenia](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_danho_glomerular.png "Esquema de la patogenia")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_danho_glomerular.png.png "Esquema de la patogenia")
