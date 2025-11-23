@@ -2,7 +2,7 @@
 
 ![Imagen GNPE. Epidemiolgía, Etiopatogenia](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/gnpe_01.jpg "GNPE. Epidemiolgía. Etiopatogenia")
 
-##  Epidemiología. Etiopatogenia.
+## Epidemiología. Etiopatogenia.
 
 Esta enfermedad glomerular bilateral, difusa y global se presenta como una complicación
 no supuratitiva, de tipo inmunológica que es desencadenada por una amplia variedad de 
@@ -76,7 +76,7 @@ específica con recurrencias excepcionales.
 
 
 
-[![Esquema: Daño glomerular](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_danho_glomerular.png "Daño glomerular")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_danho_glomerular.png.png "Daño glomerular")
+[![Esquema: Daño glomerular](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_danho_glomerular.png "Daño glomerular")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_danho_glomerular.png "Daño glomerular")
 
 
-[![Esquema de la patogenia](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_danho_glomerular.png "Esquema de la patogenia")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_danho_glomerular.png.png "Esquema de la patogenia")
+[![Esquema de la patogenia](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_de_la_patogenia.png "Esquema de la patogenia")](https://raw.githubusercontent.com/laguipemo/NefroPediatriaLessons-Server/refs/heads/main/images/esquema_de_la_patogenia.png "Esquema de la patogenia")
